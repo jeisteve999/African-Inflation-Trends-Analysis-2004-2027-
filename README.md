@@ -47,7 +47,7 @@ Inflation Trend Over Time
 
 Zimbabwe Inflation Case Study
 
-![Zimbabwe Inflation Case Study](https://github.com/jeisteve999/African-Inflation-Trends-Analysis-2004-2027-/blob/main/Top%2015%20Countries%20by%20Average%20Inflation.png)
+![Zimbabwe Inflation Case Study](https://github.com/jeisteve999/African-Inflation-Trends-Analysis-2004-2027-/blob/main/Zimbabwe%20Inflation%20Case%20Study.png)
 
 # Conclusions
 
