@@ -35,19 +35,19 @@ Google Colab
 
 Top 15 Countries by Average Inflation
 
-[Insert chart image]
+(https://github.com/jeisteve999/OpenGovAfrica-CPI-Governance-Analysis-Across-Africa/blob/main/dashboard%205.png)
 
 Top 15 Countries by Inflation Volatility
 
-[Insert chart image]
+(https://github.com/jeisteve999/OpenGovAfrica-CPI-Governance-Analysis-Across-Africa/blob/main/dashboard%205.png)
 
 Inflation Trend Over Time
 
-[Insert chart image]
+(https://github.com/jeisteve999/OpenGovAfrica-CPI-Governance-Analysis-Across-Africa/blob/main/dashboard%205.png)
 
 Zimbabwe Inflation Case Study
 
-[Insert chart image]
+(https://github.com/jeisteve999/OpenGovAfrica-CPI-Governance-Analysis-Across-Africa/blob/main/dashboard%205.png)
 
 # Conclusions
 
