@@ -35,19 +35,19 @@ Google Colab
 
 Top 15 Countries by Average Inflation
 
-(https://github.com/jeisteve999/African-Inflation-Trends-Analysis-2004-2027-/blob/main/Top%2015%20Countries%20by%20Average%20Inflation.png)
+![Countries by Average Inflation](https://github.com/jeisteve999/African-Inflation-Trends-Analysis-2004-2027-/blob/main/Top%2015%20Countries%20by%20Average%20Inflation.png)
 
 Top 15 Countries by Inflation Volatility
 
-(https://github.com/jeisteve999/OpenGovAfrica-CPI-Governance-Analysis-Across-Africa/blob/main/dashboard%205.png)
+![Countries by Average Inflation](https://github.com/jeisteve999/African-Inflation-Trends-Analysis-2004-2027-/blob/main/Top%2015%20Countries%20by%20Average%20Inflation.png)
 
 Inflation Trend Over Time
 
-(https://github.com/jeisteve999/OpenGovAfrica-CPI-Governance-Analysis-Across-Africa/blob/main/dashboard%205.png)
+![Countries by Average Inflation](https://github.com/jeisteve999/African-Inflation-Trends-Analysis-2004-2027-/blob/main/Top%2015%20Countries%20by%20Average%20Inflation.png)
 
 Zimbabwe Inflation Case Study
 
-(https://github.com/jeisteve999/OpenGovAfrica-CPI-Governance-Analysis-Across-Africa/blob/main/dashboard%205.png)
+![Countries by Average Inflation](https://github.com/jeisteve999/African-Inflation-Trends-Analysis-2004-2027-/blob/main/Top%2015%20Countries%20by%20Average%20Inflation.png)
 
 # Conclusions
 
