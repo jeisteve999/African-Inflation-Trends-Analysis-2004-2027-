@@ -39,7 +39,7 @@ Top 15 Countries by Average Inflation
 
 Top 15 Countries by Inflation Volatility
 
-![Countries by Average Inflation](https://github.com/jeisteve999/African-Inflation-Trends-Analysis-2004-2027-/blob/main/Top%2015%20Countries%20by%20Average%20Inflation.png)
+![Countries by Average Inflation](https://github.com/jeisteve999/African-Inflation-Trends-Analysis-2004-2027-/blob/main/Top%2015%20Countries%20by%20Inflation%20Volatility.png)
 
 Inflation Trend Over Time
 
