@@ -31,6 +31,14 @@ Google Colab
 -Inflation volatility was highest in Zimbabwe (221.5), followed by South Sudan (91.8).
 -Average inflation across the dataset peaked in 2024 at 23.6%.
 -Most African countries maintained inflation levels below 20%, although several experienced severe inflationary shocks.
+
+# Analysis Notebook
+
+The complete analysis, including data cleaning, exploratory data analysis (EDA), calculations, and visualizations, can be accessed here:
+
+[View Jupyter Notebook](https://github.com/jeisteve999/African-Inflation-Trends-Analysis-2004-2027-/blob/main/African_Inflation_Trends_Analysis_(2004%E2%80%932027).ipynb)
+
+
 # Visualizations
 
 Top 15 Countries by Average Inflation
